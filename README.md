@@ -6,7 +6,7 @@
 
 <!-- ==================== INTRO ==================== -->
 
-<h3 align="center">Hi 👋, I'm Sohana Nazneen</h3>
+<h3 align="center"> As-salamu alaykum, I'm Sohana Nazneen</h3>
 <h4 align="center">Web Developer</h4>
 
 <p align="center">
