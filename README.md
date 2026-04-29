@@ -70,7 +70,6 @@ I enjoy solving problems with a multi-perspective approach and contributing to m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohananazneen&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohananazneen&theme=tokyonight" />
 </p>
 
 ---
