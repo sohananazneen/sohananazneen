@@ -4,19 +4,20 @@
 </p>
 
 <!-- ==================== INTRO ==================== -->
-<p align="center">
-I am a quick learner, hardworking, and ambitious individual, motivated by achieving goals. I enjoy solving problems from multiple perspectives and contributing to meaningful projects.
-</p>
+
 
 ---
 <p align="center">
   <img  align="right" width="500" src="https://raw.githubusercontent.com/sohananazneen/sohananazneen/3f22263b1d95400fee86003418a9fed6a2337061/sohananazneen-profile-banner.svg" />
 </p>
 ### 🚀 About Me
+<p>
+I am a quick learner, hardworking, and ambitious individual, motivated by achieving goals. I enjoy solving problems from multiple perspectives and contributing to meaningful projects.
+</p>
 
-* I’m an introverted Muslimah.
-
-* 🌱 I’m currently exploring **Next.js** 
+* ✨ I’m an introverted Muslimah.
+* 🌱 I’m currently exploring **Next.js**
+* 🍀 I am enthusiastic about learning Python in the future.
 * 📫 Email: **[sohana.nazneen.1@gmail.com](mailto:sohana.nazneen.1@gmail.com)**
 * 👨‍💻 Portfolio: https://portfolio-nextjs-sn.vercel.app/
 
